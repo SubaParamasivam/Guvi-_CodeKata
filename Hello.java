@@ -9,7 +9,7 @@ import java.util.*;
 * Sample input : 3
 * Sample output: Hello 
 *                Hello
-*				 Hello
+*                Hello
 *
 * @author  SubaParamasivam
 * @version 1.0
@@ -27,8 +27,8 @@ public class Hello
     {
         int n;
         Scanner sc=new Scanner(System.in);
-		n=sc.nextInt();
-		for(int i=0;i<n;i++)
+	n=sc.nextInt();
+	for(int i=0;i<n;i++)
 	    System.out.println("Hello");
     }
 }
