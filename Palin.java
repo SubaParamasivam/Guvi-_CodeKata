@@ -26,8 +26,8 @@ public class Palin
     {
       int n,s=0,tmp,r;
       Scanner sc=new Scanner(System.in);
-	  n=sc.nextInt();
-	  tmp=n;
+    n=sc.nextInt();
+	tmp=n;
 	  while(n>0)
 	  {
 		 r=n%10;
@@ -36,7 +36,7 @@ public class Palin
 	  }
 	  if(s==tmp)
 		  System.out.println("yes");
-      else
+          else
 		  System.out.println("no");
     }
 }
