@@ -11,7 +11,7 @@ import java.util.*;
                 5 1 3
 * Sample output: 5 0
                  1 1
-				 3 2
+3 2
 *
 * @author  SubaParamasivam
 * @version 1.0
